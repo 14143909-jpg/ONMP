@@ -5,7 +5,7 @@
 # @Last Modified time: 2019-06-09 11:39:26
 
 # 软件包列表
-pkglist="wget unzip grep sed tar ca-certificates coreutils-whoami php8 php8-cgi php8-cli php8-fastcgi php8-fpm php8-mod-mysqli php8-mod-pdo php8-mod-pdo-mysql nginx-extras mariadb-server mariadb-server-extra mariadb-client mariadb-client-extra"
+pkglist="wget unzip grep sed tar ca-certificates coreutils-whoami php8 php8-cgi php8-cli php8-fastcgi php8-fpm php8-mod-mysqli php8-mod-pdo php8-mod-pdo-mysql  mariadb-server mariadb-server-extra mariadb-client mariadb-client-extra"
 
 phpmod="php8-mod-calendar php8-mod-ctype php8-mod-curl php8-mod-dom php8-mod-exif php8-mod-fileinfo php8-mod-ftp php8-mod-gd php8-mod-gettext php8-mod-gmp php8-mod-hash php8-mod-iconv php8-mod-intl php8-mod-json php8-mod-ldap php8-mod-session php8-mod-mbstring php8-mod-opcache php8-mod-openssl php8-mod-pcntl php8-mod-phar php8-pecl-redis php8-mod-session php8-mod-shmop php8-mod-simplexml php8-mod-snmp php8-mod-soap php8-mod-sockets php8mod-sqlite3 php8-mod-sysvmsg php8-mod-sysvsem php8-mod-sysvshm php8-mod-tokenizer php8-mod-xml php8-mod-xmlreader php8-mod-xmlwriter php8-mod-zip php8-pecl-dio php8-pecl-http php8-pecl-libevent php8-pecl-propro php8-pecl-raphf redis snmpd snmp-mibs snmp-utils zoneinfo-core zoneinfo-asia"
 
@@ -32,7 +32,7 @@ url_h5ai="https://release.larsjung.de/h5ai/h5ai-0.29.0.zip"
 url_Lychee="https://github.com/electerious/Lychee/archive/master.zip"
 
 # (7) Kodexplorer（可道云aka芒果云在线文档管理器）
-url_Kodexplorer="http://static.kodcloud.com/update/download/kodexplorer4.36.zip"
+url_Kodexplorer="https://static.kodcloud.com/update/download/kodexplorer4.48.zip"
 
 # (8) Typecho (流畅的轻量级开源博客程序)
 url_Typecho="http://typecho.org/downloads/1.1-17.10.30-release.tar.gz"
